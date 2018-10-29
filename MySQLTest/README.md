@@ -13,7 +13,7 @@ Fill in the fields in the form of a comment
 * TextArea - Пример комментария  
 * Name - Олег  
 * Email - oleg@gmail.com  
-Press the button - Отправить комментарий  
+* Press the button - Отправить комментарий  
   
 ### Expected Result  
 Email - oleg@gmail.com - is stored in the database with the comment_author identifier   
